@@ -1,0 +1,10 @@
+h1 {
+    background-color: aqua;
+    color: blue;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+body{
+    background-color: blue;
+    text-align: center;
+}
